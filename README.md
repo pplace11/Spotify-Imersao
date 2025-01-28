@@ -12,8 +12,8 @@ Spotify Imersão é uma aplicação web desenvolvida em HTML e CSS durante a Ime
 
 ## Tecnologias Utilizadas
 
-![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg){:height="20px"} HTML
-![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg){:height="20px"} CSS
+![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg{:height="20px"}) HTML
+![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg{:height="20px"}) CSS
 
 ## Como Executar o Projeto
 
