@@ -1,4 +1,4 @@
-![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg) ![Alura Logo](https://www.alura.com.br/assets/img/alura-share.1571848411.png)
+![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg)
 
 # Spotify Imersão
 
