@@ -22,20 +22,20 @@ O **Spotify Imersão** é uma aplicação web desenvolvida em HTML e CSS durante
 
 Certifique-se de ter o [Visual Studio Code](https://code.visualstudio.com/) instalado.
 
-### 1. Clone o repositório:
+### 1. **Clone o repositório:**
 
 ```bash
 git clone https://github.com/pplace11/Spotify-Imersao.git
 cd Spotify-Imersao
 ```
 
-### 2. Instale a extensão Live Server no Visual Studio Code:
+### 2. **Instale a extensão Live Server no Visual Studio Code:**
 
 - Abra o Visual Studio Code.
 - Vá até a aba de extensões (ícone de quadrado no lado esquerdo ou use o atalho Ctrl+Shift+X).
 - Procure por "Live Server" e clique em "Install" na extensão desenvolvida por Ritwick Dey.
 
-### 3. Use o Live Server para abrir o projeto:
+### 3. **Use o Live Server para abrir o projeto:**
 
 - No Visual Studio Code, com o projeto aberto, clique com o botão direito no arquivo index.html.
 - Selecione a opção "Open with Live Server".
@@ -46,8 +46,8 @@ cd Spotify-Imersao
 📁 Spotify-Imersao/
 ├── 📂 assets/         # Recursos estáticos como CSS, JS e imagens
 ├── 📂 src/            # Scripts JavaScript e lógica da aplicação
-│   ├── style.css      # Estilos da aplicação
-│   ├── reset.css      # Reset de estilos para consistência entre navegadores
-├── index.html         # Página principal da aplicação
-└── README.md          # Documentação do projeto
+│   ├── 📄style.css      # Estilos da aplicação
+│   ├── 📄reset.css      # Reset de estilos para consistência entre navegadores
+├── 📄index.html         # Página principal da aplicação
+└── 📄README.md          # Documentação do projeto
 ```
