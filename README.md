@@ -42,6 +42,7 @@ cd Spotify-Imersao
 - A aplicação estará disponível localmente no seu navegador padrão.
 
 ## 🗂️ Estrutura do Projeto
+
 ```plaintext
 📁 Spotify-Imersao/
 ├── 📂 assets/         # Recursos estáticos como CSS, JS e imagens
