@@ -50,7 +50,7 @@ cd Spotify-Imersao
     ├──📂styles/          # Contém arquivos CSS que definem os estilos da aplicação
         ├── 📄sidebar-footer.css      # Estilos da aplicação
         ├── 📄reset.css               # Reset de estilos para consistência entre navegadores
-        ├── 📄main-content.css
+        ├── 📄main-content.css        # Define os estilos para a área de conteúdo principal da aplicação
 ├── 📄index.html    # Página principal da aplicação
 └── 📄README.md     # Documentação do projeto
 ```
