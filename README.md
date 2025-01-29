@@ -45,10 +45,12 @@ cd Spotify-Imersao
 
 ```plaintext
 📁 Spotify-Imersao/
-├── 📂 assets/         # Recursos estáticos como CSS, JS e imagens
-├── 📂 src/            # Scripts JavaScript e lógica da aplicação
-│   ├── 📄style.css      # Estilos da aplicação
-│   ├── 📄reset.css      # Reset de estilos para consistência entre navegadores
-├── 📄index.html         # Página principal da aplicação
-└── 📄README.md          # Documentação do projeto
+├── 📂 src/         # Scripts JavaScript e lógica da aplicação
+    ├──📂 assets/         # Recursos estáticos como CSS, JS e imagens
+    ├──📂styles/          # Contém arquivos CSS que definem os estilos da aplicação
+        ├── 📄sidebar-footer.css      # Estilos da aplicação
+        ├── 📄reset.css               # Reset de estilos para consistência entre navegadores
+        ├── 📄main-content.css
+├── 📄index.html    # Página principal da aplicação
+└── 📄README.md     # Documentação do projeto
 ```
