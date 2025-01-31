@@ -68,3 +68,10 @@ json-server --watch api-artists/artist.json --port 3000
 ├── 📄 index.html    # Página principal da aplicação
 └── 📄 README.md     # Documentação do projeto
 ```
+
+## 📸 Preview
+
+Aqui está uma visão geral da interface da aplicação:
+
+![Sptify Imersao Preview](src/assets/web/principal.png)
+![Sptify Imersao Preview](src/assets/web/segundo.png)
